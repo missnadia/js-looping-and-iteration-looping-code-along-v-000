@@ -1,8 +1,8 @@
-function printBadges() {
+function printBadges(names) {
 
 }
 
 
 function tailsNeverFails() {
-  
+
 }
